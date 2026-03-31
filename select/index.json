@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Jack In The Box",
+  "base_artist": "Snow Man",
+  "createdAt": "2026-03-31T14:04:03.726209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jack In The Box",
+      "artist": "Higelin",
+      "has_synced": false,
+      "path": "select/01_Jack_In_The_Box_Higelin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jack In The Box",
+      "artist": "WhyDee",
+      "has_synced": false,
+      "path": "select/02_Jack_In_The_Box_WhyDee.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jack in the Box",
+      "artist": "Jacques Higelin",
+      "has_synced": false,
+      "path": "select/03_Jack_in_the_Box_Jacques_Higelin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jack in the Box",
+      "artist": "Void Droid",
+      "has_synced": true,
+      "path": "select/04_Jack_in_the_Box_Void_Droid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jack in the box",
+      "artist": "Higelin, Jacques",
+      "has_synced": false,
+      "path": "select/05_Jack_in_the_box_Higelin,_Jacques.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jack in the Box",
+      "artist": "Intwine",
+      "has_synced": false,
+      "path": "select/06_Jack_in_the_Box_Intwine.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jack In The Box",
+      "artist": "Jackpots",
+      "has_synced": true,
+      "path": "select/07_Jack_In_The_Box_Jackpots.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jack in the Box",
+      "artist": "Elysian Fields",
+      "has_synced": true,
+      "path": "select/08_Jack_in_the_Box_Elysian_Fields.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jack in the Box",
+      "artist": "Not Available",
+      "has_synced": false,
+      "path": "select/09_Jack_in_the_Box_Not_Available.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jack In The Box",
+      "artist": "Snow Man",
+      "has_synced": true,
+      "path": "select/10_Jack_In_The_Box_Snow_Man.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jack in the Box",
+      "artist": "Clodagh Rodgers",
+      "has_synced": true,
+      "path": "select/11_Jack_in_the_Box_Clodagh_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "JACK IN THE BOX",
+      "artist": "Ham Sandwich",
+      "has_synced": true,
+      "path": "select/12_JACK_IN_THE_BOX_Ham_Sandwich.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "01 jack in the box",
+      "artist": "Jacques Higelin",
+      "has_synced": false,
+      "path": "select/13_01_jack_in_the_box_Jacques_Higelin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jack In The Box",
+      "artist": "Jackpots",
+      "has_synced": false,
+      "path": "select/14_Jack_In_The_Box_Jackpots.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jack In The Box",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/15_Jack_In_The_Box_Ice_Cube.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jack In The Box",
+      "artist": "Snow Man",
+      "has_synced": false,
+      "path": "select/pl_01_Jack_In_The_Box_Snow_Man.txt"
+    }
+  ]
+}
